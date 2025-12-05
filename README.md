@@ -1,1 +1,1 @@
-zchanthavong_javajam.github.io
+https://zchanthavong.github.io/javajam/
